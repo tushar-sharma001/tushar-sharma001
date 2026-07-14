@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-## Tushar
+## Tushar Sharma
 
 **Data Science · Machine Learning · Generative AI** — BCA @ GGSIPU
 
