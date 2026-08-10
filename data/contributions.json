@@ -1,17 +1,17 @@
 {
   "username": "tushar-sharma001",
-  "generated_at": "2026-08-09T04:39:46Z",
+  "generated_at": "2026-08-10T04:58:07Z",
   "range": {
     "start": "2025-08-10",
-    "end": "2026-08-09"
+    "end": "2026-08-10"
   },
   "total_contributions": 178,
   "active_days": 36,
   "avg_per_active_day": 4.9,
   "current_streak": {
-    "length": 2,
-    "start": "2026-08-07",
-    "end": "2026-08-08"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 4,
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-09",
+      "count": 0
+    },
+    {
+      "date": "2026-08-10",
       "count": 0
     }
   ]
