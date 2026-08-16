@@ -1,17 +1,17 @@
 {
   "username": "tushar-sharma001",
-  "generated_at": "2026-08-15T03:57:22Z",
+  "generated_at": "2026-08-16T04:02:56Z",
   "range": {
-    "start": "2025-08-10",
-    "end": "2026-08-15"
+    "start": "2025-08-17",
+    "end": "2026-08-16"
   },
-  "total_contributions": 172,
+  "total_contributions": 134,
   "active_days": 35,
-  "avg_per_active_day": 4.9,
+  "avg_per_active_day": 3.8,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 2,
+    "start": "2026-08-15",
+    "end": "2026-08-16"
   },
   "longest_streak": {
     "length": 4,
@@ -19,8 +19,8 @@
     "end": "2026-07-27"
   },
   "best_day": {
-    "date": "2026-07-10",
-    "count": 49
+    "date": "2026-06-29",
+    "count": 21
   },
   "monthly": [
     {
@@ -69,42 +69,14 @@
     },
     {
       "month": "2026-07",
-      "total": 84
+      "total": 34
     },
     {
       "month": "2026-08",
-      "total": 2
+      "total": 14
     }
   ],
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 0
-    },
-    {
-      "date": "2025-08-11",
-      "count": 0
-    },
-    {
-      "date": "2025-08-12",
-      "count": 0
-    },
-    {
-      "date": "2025-08-13",
-      "count": 0
-    },
-    {
-      "date": "2025-08-14",
-      "count": 0
-    },
-    {
-      "date": "2025-08-15",
-      "count": 0
-    },
-    {
-      "date": "2025-08-16",
-      "count": 0
-    },
     {
       "date": "2025-08-17",
       "count": 0
@@ -1411,11 +1383,11 @@
     },
     {
       "date": "2026-07-09",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-07-10",
-      "count": 49
+      "count": 0
     },
     {
       "date": "2026-07-11",
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-15",
-      "count": 0
+      "count": 6
+    },
+    {
+      "date": "2026-08-16",
+      "count": 6
     }
   ]
 }
